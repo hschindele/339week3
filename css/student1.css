@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+    background-color: #d1d1d1;
+    border: solid 10px black;
+    border-width: 3px 10px;
+}
+h2{
+    color: purple;
+    background-color: grey;
+    border: solid 10px black;
+    border-width: 3px 10px;
+}
+body {
+    background-color: lightblue;
+}
