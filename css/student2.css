@@ -1,0 +1,45 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+ 
+ 
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+ 
+ 
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+ nav ul li{
+    display: inline-block;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    background: aqua;
+    padding: 20px;
+    margin-top: 10px;
+ }
+ li{
+    display: inline-block;
+    border-radius: 10px;
+    border: 2px solid #000000;
+    background: magenta;
+    padding: 20px;
+    margin-top: 10px;
+ }
+ img{
+    box-sizing: border-box;
+    width: 24%;
+    padding: 11px;
+    border: dashed 5px darkgreen;
+ }
+ p {
+    font-size: 10px;
+    font-style: italic;
+    text-align: center;
+    border: solid 3px black;
+ }
